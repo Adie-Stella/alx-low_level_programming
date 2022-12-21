@@ -1,6 +1,5 @@
 include "main.h"
 #include <stdio.h>
-
 /**
  * * print_array - check the code.
  * * @a: an input array.
