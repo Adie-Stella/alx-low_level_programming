@@ -1,5 +1,5 @@
 #include "main.h"
-char *_strcat(char *dest, const chat *src);
+char *_strcat(char *dest, const chat *src)
 
 {
 	int index = 0, dest_len = 0;
