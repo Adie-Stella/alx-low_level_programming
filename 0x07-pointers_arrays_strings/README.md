@@ -1,1 +1,1 @@
-More on pointers and arrays
+Project on pointers and readers
