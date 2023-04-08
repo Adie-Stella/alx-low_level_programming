@@ -1,1 +1,1 @@
-New task on Hash Table
+New task on Hash Tables
