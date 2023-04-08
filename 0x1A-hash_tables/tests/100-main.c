@@ -33,6 +33,3 @@ int main(void)
         shash_table_delete(ht);
     return (EXIT_SUCCESS);
 }
-/**
-*end
-*/
